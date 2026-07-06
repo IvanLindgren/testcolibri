@@ -1,5 +1,9 @@
 # Binary File Modifier (XOR)
 
+<img width="1280" height="745" alt="photo_2026-07-06_08-41-09" src="https://github.com/user-attachments/assets/bace0f9c-8a8b-4e1e-8453-6a176f19c9f5" />
+<img width="1280" height="753" alt="photo_2026-07-06_08-41-20" src="https://github.com/user-attachments/assets/3b470862-3466-4607-b111-0ba52f03297e" />
+
+
 Тестовое задание: программа модифицирует входные файлы бинарной операцией XOR
 с заданным 8-байтным значением.
 
