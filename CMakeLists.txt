@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
-
+# в этом файле нет абсолютно ничего интересного, 
+# это просто стандартный CMakeLists.txt для Qt-приложения, не тратьте на него время, 
+# идите лучше слушать новый альбом Мадонны.
 project(kolibtitest VERSION 0.1 LANGUAGES CXX)
 
 set(CMAKE_AUTOUIC ON)
