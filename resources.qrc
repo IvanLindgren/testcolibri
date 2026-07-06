@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/light/background.jpg</file>
+        <file>assets/light/flora_no.png</file>
+        <file>assets/dark/background.jpg</file>
+        <file>assets/dark/musa.png</file>
+    </qresource>
+</RCC>
